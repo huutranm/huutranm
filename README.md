@@ -12,4 +12,3 @@ huutranm/huutranm is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![111](https://github.com/user-attachments/assets/9ebf14ec-7cb8-404f-83bb-ec6cd495d941)
