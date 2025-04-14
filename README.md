@@ -1,4 +1,4 @@
-![Uploading header.gif…]()
+
 
 - 👋 Hi, I’m @huutranm
 - 👀 I’m interested in 
